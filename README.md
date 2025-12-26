@@ -67,7 +67,9 @@ npm run dev
 Open http://localhost:5173
  in your browser to see the app.
 
-Deployment
+---
+
+##Deployment
 
 The project can be deployed easily to Netlify, Vercel, or any static hosting.
 
@@ -78,7 +80,9 @@ npm run build
 
 Then deploy the contents of the dist folder.
 
-How to Use
+---
+
+##How to Use
 
 Open the app in your browser.
 
@@ -86,7 +90,9 @@ Click on any sample article or paste your own text.
 
 See category, summary, and sentiment results instantly.
 
-Summary
+---
+
+##Summary
 
 This project showcases:
 
