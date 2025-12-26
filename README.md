@@ -256,14 +256,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
-## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Link: [Website](https://news-classification-summarization.netlify.app/)
 
 ---
-
-*Built as part of an AI/ML internship portfolio project demonstrating practical NLP implementation skills.*
